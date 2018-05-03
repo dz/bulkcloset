@@ -1,2 +1,1 @@
-# bulkcloset
-source for bulkcloset.com
+bulkcloset.com
